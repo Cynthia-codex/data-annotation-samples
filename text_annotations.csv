@@ -9,3 +9,8 @@ id,text,label
 8,"Worst purchase I’ve made in a long time.",Negative
 9,"Not bad, but could be improved.",Neutral
 10,"Absolutely fantastic, exceeded expectations!",Positive
+11,"The delivery was late and items were missing.",Negative
+12,"The movie was just average, nothing exciting.",Neutral
+13,"Customer support was quick and very kind.",Positive
+14,"I will never order from here again.",Negative
+15,"The presentation was fine, but not memorable.",Neutral
