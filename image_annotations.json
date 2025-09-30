@@ -1,7 +1,47 @@
-{
-  "image1.jpg": ["cat", "sofa"],
-  "image2.jpg": ["dog", "grass"],
-  "image3.jpg": ["car", "street"],
-  "image4.jpg": ["person", "laptop"],
-  "image5.jpg": ["bicycle", "road"]
-}
+[
+  {
+    "id": 1,
+    "image": "dog.jpg",
+    "annotations": {
+      "object": "dog",
+      "bounding_box": [34, 45, 200, 300],
+      "confidence": 0.98
+    }
+  },
+  {
+    "id": 2,
+    "image": "cat.jpg",
+    "annotations": {
+      "object": "cat",
+      "bounding_box": [50, 60, 180, 250],
+      "confidence": 0.95
+    }
+  },
+  {
+    "id": 3,
+    "image": "car.jpg",
+    "annotations": {
+      "object": "car",
+      "bounding_box": [20, 30, 220, 150],
+      "confidence": 0.92
+    }
+  },
+  {
+    "id": 4,
+    "image": "person.jpg",
+    "annotations": {
+      "object": "person",
+      "bounding_box": [40, 70, 160, 280],
+      "confidence": 0.97
+    }
+  },
+  {
+    "id": 5,
+    "image": "tree.jpg",
+    "annotations": {
+      "object": "tree",
+      "bounding_box": [15, 40, 200, 350],
+      "confidence": 0.94
+    }
+  }
+]
