@@ -1,18 +1,20 @@
-# data-annotation-samples
-# Data Annotation Samples  
 
-This repository contains examples of data annotation work for AI/ML projects.  
-It demonstrates labeling of **text sentiment** and **image classification** tasks.  
+# Data Annotation Samples
 
-## 📂 Contents  
-- `text_annotations.csv` → Sample sentences labeled as Positive / Negative / Neutral  
-- `image_annotations.json` → Sample image files with object labels  
-- `images/` → Folder for image samples  
+This repository contains sample data annotations for both **image** and **text** tasks.  
+It demonstrates my ability to create and manage datasets for AI/ML training.
 
-## 🧑‍💻 Why This Matters  
-High-quality annotations are essential for training machine learning models.  
-Good labels = Better AI performance.  
+## Files
+- **image_annotations.json** → bounding box annotations for objects in images.  
+- **text_annotations.csv** → sentiment labels for text samples (Positive, Negative, Neutral).  
 
-## 🔗 About Me  
-Created by **Chinyere Ijomanta**  
-📧 cynthiarellajoel@gmail.com
+## Skills Demonstrated
+- Data Annotation (Image + Text)  
+- Tools: LabelImg, Excel, JSON, CSV  
+- Data Quality Control  
+- GitHub Documentation  
+
+## Example
+Here’s a sample of the annotation process:
+
+![Annotation Example](screenshot.png)
