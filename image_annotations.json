@@ -1,0 +1,7 @@
+{
+  "image1.jpg": ["cat", "sofa"],
+  "image2.jpg": ["dog", "grass"],
+  "image3.jpg": ["car", "street"],
+  "image4.jpg": ["person", "laptop"],
+  "image5.jpg": ["bicycle", "road"]
+}
