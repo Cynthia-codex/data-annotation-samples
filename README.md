@@ -14,7 +14,4 @@ It demonstrates my ability to create and manage datasets for AI/ML training.
 - Data Quality Control  
 - GitHub Documentation  
 
-## Example
-Here’s a sample of the annotation process:
 
-![Annotation Example](screenshot.png)
